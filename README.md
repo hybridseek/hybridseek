@@ -2,7 +2,7 @@
 - 👀 I’m keen on adopting the Web3
 - 🌱 I’m continuously learning software development
 - 💞️ I’m looking to collaborate on an open-source project
-- 📫 You can reach me through this email
+- 📫 You can reach me through this email[email.nobody@icloud.com](mailto:email.nobody@icloud.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: “Do one thing every day that scares you.”
 
