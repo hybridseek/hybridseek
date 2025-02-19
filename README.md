@@ -7,9 +7,9 @@
 
 ---
 
-📫 Connect with Me
-📧 Email: 📩 [Contact Me](mailto:email@metapulz.com)
-🐙 Website: 🌐 [My Website](https://metapulz.com)
+- 📫 Connect with Me
+- 📧 Email: 📩 [Contact Me](mailto:email@metapulz.com)
+- 🐙 Website: 🌐 [My Website](https://metapulz.com)
 
 
 <!---
