@@ -9,7 +9,7 @@
 
 - 📫 Connect with Me
 - 📧 Email: 📩 [Contact Me](mailto:email@metapulz.com)
-- 🐙 Website: 🌐 [Visit the Website](https://metapulz.com)
+- 🐙 Website: 🌐 [Check it out!](https://metapulz.com)
 
 
 <!---
