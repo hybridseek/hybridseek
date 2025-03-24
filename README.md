@@ -1,7 +1,7 @@
 <h1 align="center">
-  <a href="https://metalpulz.com"><img src="https://www.svgrepo.com/show/65722/dollar-coins-stack.svg" alt="hybridSeek" width="200"></a>
+  <a href="https://gitfocus.com"><img src="https://www.svgrepo.com/show/488802/bike.svg" alt="GitFocus" width="200"></a>
     <br>
-      hybridSeek
+      GitFocus
     <br>
   <br>
 </h1>
