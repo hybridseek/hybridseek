@@ -1,9 +1,10 @@
 <h1 align="center">
-  <a href="https://www.gitfocus.com/bio"><img src="https://www.svgrepo.com/show/488802/bike.svg" alt="gITFocus" width="200" target="_blank"></a>
-    <br>
-      gITFocus
-    <br>
+  <a href="https://www.gitfocus.com/bio" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.svgrepo.com/show/488802/bike.svg" alt="gITFocus" width="200">
+  </a>
   <br>
+    <a href="https://www.gitfocus.com/bio" target="_blank" rel="noopener noreferrer">gITFocus</a>
+  <br><br>
 </h1>
 
 <p align="center">
