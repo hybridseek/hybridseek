@@ -4,6 +4,7 @@
   </a>
   <br>
     <a href="https://www.gitfocus.com/bio" target="_blank" rel="noopener noreferrer">gITFocus</a>
+    [![gITFocus](https://www.svgrepo.com/show/488802/bike.svg)](https://www.gitfocus.com/bio){:target="_blank"}
   <br><br>
 </h1>
 
