@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://gitfocus.com/bio" target="_blank"><img src="https://www.svgrepo.com/show/488802/bike.svg" alt="GitFocus" width="200"></a>
+  <a href="https://www.gitfocus.com/bio" target="_blank"><img src="https://www.svgrepo.com/show/488802/bike.svg" alt="GitFocus" width="200"></a>
     <br>
       gITFocus
     <br>
