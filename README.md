@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://gitfocus.com"><img src="https://www.svgrepo.com/show/488802/bike.svg" alt="GitFocus" width="200"></a>
     <br>
-      gITfocus
+      gITFocus
     <br>
   <br>
 </h1>
